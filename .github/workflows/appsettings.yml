@@ -1,8 +1,6 @@
-# .github/workflows/configureAppSettings.yml
 name: Change Kube App Settings
 on:
-  [push,workflow_dispatch]]
-
+  [push,workflow_dispatch]
 jobs:
   build:
     name: build
