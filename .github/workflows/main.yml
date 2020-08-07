@@ -1,7 +1,6 @@
 name: Web_Code_Workflow
 
-on:
-  on: [push,workflow_dispatch]
+on: [push,workflow_dispatch]
 
 # CONFIGURATION
 # For help, go to https://github.com/Azure/Actions
